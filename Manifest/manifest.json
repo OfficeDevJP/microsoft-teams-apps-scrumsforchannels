@@ -36,11 +36,11 @@
           ],
           "commands": [
             {
-              "title": "Open settings",
+              "title": "設定を開く",
               "description": "タスクの設定を開きスクラムを追加または更新する。"
             },
             {
-              "title": "Help",
+              "title": "ヘルプ",
               "description": "実行できる動作を確認"
             }
           ]
