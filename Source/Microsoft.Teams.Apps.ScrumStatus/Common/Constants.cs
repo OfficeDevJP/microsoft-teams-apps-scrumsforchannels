@@ -37,7 +37,7 @@ namespace Microsoft.Teams.Apps.ScrumStatus.Common
         /// <summary>
         /// Settings task module command when invoked.
         /// </summary>
-        public const string SettingsTaskModuleCommand = "OPEN SETTINGS";
+        public const string SettingsTaskModuleCommand = "設定を開く";
 
         /// <summary>
         /// Represents task module task/fetch string.
