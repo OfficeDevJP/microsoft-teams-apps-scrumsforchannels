@@ -12,12 +12,12 @@ namespace Microsoft.Teams.Apps.ScrumStatus.Common
         /// <summary>
         /// Command to show help card.
         /// </summary>
-        public const string Help = "ヘルプ";
+        public const string Help = "HELP";
 
         /// <summary>
         /// Command to show settings card.
         /// </summary>
-        public const string Settings = "設定を開く";
+        public const string Settings = "OPEN SETTINGS";
 
         /// <summary>
         /// Command to end scrum.
