@@ -28,4 +28,3 @@ Scrums for Channelsを使用するには<br>
 それぞれのガイドをご参照ください。<br>
 利用方法：[Scrums for Channels利用者ガイド](https://github.com/OfficeDevJP/microsoft-teams-apps-scrumsforchannels/blob/main/Scrums%20for%20Channels%20利用者ガイド.pdf)<br>
 展開方法：[Scrums for Channels管理者ガイド](https://github.com/OfficeDevJP/microsoft-teams-apps-scrumsforchannels/blob/main/Scrums%20for%20Channels%20管理者ガイド.pdf)
-
