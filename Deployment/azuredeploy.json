@@ -112,14 +112,14 @@
       "metadata": {
         "description": "The URL to the GitHub repository to deploy."
       },
-      "defaultValue": "https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels.git"
+      "defaultValue": "https://github.com/OfficeDevJP/microsoft-teams-apps-scrumsforchannels.git"
     },
     "gitBranch": {
       "type": "string",
       "metadata": {
         "description": "The branch of the GitHub repository to deploy."
       },
-      "defaultValue": "master"
+      "defaultValue": "main"
     }
   },
   "variables": {
